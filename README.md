@@ -17,10 +17,10 @@ How to install?
 ```shell
 curl -sL https://bootstrap.pypa.io/get-pip.py | python3 -
 ```
-or
-```shell
-curl -sL https://bootstrap.pypa.io/get-pip.py | python -
-```
 
 2. Install tensorflow from the provided wheel
 
+```shell
+curl -L https://github.com/lherman-cs/tensorflow-aarch64/releases/download/r1.4/tensorflow-1.4.0rc0-cp35-cp35m-linux_aarch64.whl > /tmp/tensorflow-1.4.0rc0-cp35-cp35m-linux_aarch64.whl
+python3 -m pip install /tmp/tensorflow-1.4.0rc0-cp35-cp35m-linux_aarch64.whl
+```
