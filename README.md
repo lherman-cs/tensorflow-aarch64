@@ -1,6 +1,6 @@
 # tensorflow-aarch64
 
-Compiled for aarch64 architecture. This compiled tensorflow is based on https://github.com/tensorflow/tensorflow/tree/r1.4.
+Compiled for aarch64 architecture. This compiled tensorflow-cpu is based on https://github.com/tensorflow/tensorflow/tree/r1.4.
 
 Hardware specifications that's being used to compile this tensorflow
 ---------
