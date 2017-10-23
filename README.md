@@ -2,12 +2,12 @@
 
 Compiled for aarch64 architecture. This compiled tensorflow-cpu is based on https://github.com/tensorflow/tensorflow/tree/r1.4.
 
-Hardware specifications that's being used to compile this tensorflow
+Hardware/software specifications that's being used to compile this tensorflow
 ---------
 
 - rock64 board (https://www.pine64.org/?page_id=7147)
-- RK3328 Quad-Core ARM Cortex A53 64-Bit Processor
-
+- gcc version 5.4.0 20160609
+- Ubuntu/Linaro 5.4.0-6ubuntu1~16.04.5
 
 How to install?
 -----
